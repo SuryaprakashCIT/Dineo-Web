@@ -32,7 +32,5 @@ Header.propTypes = {
     emailErrorText:PropTypes.string.isRequired, 
     msgErrorText:PropTypes.string.isRequired, 
     nameErrorText: PropTypes.string.isRequired, 
-
-    
 }
 export default Header;
